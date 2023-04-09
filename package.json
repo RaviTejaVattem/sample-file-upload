@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "npm run build --base-href=https://ravitejavattem.github.io/sample-file-upload/"
+    "deploy": "ng build --base-href=https://ravitejavattem.github.io/sample-file-upload/"
   },
   "dependencies": {
     "@angular/animations": "^15.1.2",
